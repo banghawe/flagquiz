@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\mobile\FlagQuiz\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from E:\mobile\FlagQuiz\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from E:\mobile\FlagQuiz\app\src\main\AndroidManifest.xml
+		INJECTED from E:\mobile\FlagQuiz\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\mobile\FlagQuiz\app\src\main\AndroidManifest.xml
+		INJECTED from E:\mobile\FlagQuiz\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\mobile\FlagQuiz\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\mobile\FlagQuiz\app\src\main\AndroidManifest.xml
+		INJECTED from E:\mobile\FlagQuiz\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\mobile\FlagQuiz\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\GIO\.android\build-cache\eb17303555e4327a6f44a9f520e55adc2ef5cf59\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\GIO\.android\build-cache\8bb2e19557ce31151401eda7fd155f8b5f30c67c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\GIO\.android\build-cache\ade2d3fbdad457240d6845ca33595f6bee14bc97\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\GIO\.android\build-cache\4c41e7f3797b151ae901123b86671538eccecfcb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\GIO\.android\build-cache\0e15a4191bcc6600d61c74535735ec55d9ca9943\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\GIO\.android\build-cache\978765fe7a46a86e317ef72c1db8208404b86863\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\GIO\.android\build-cache\464e9ef6d88cf5e5aa28819ae38cab0ab208ab1c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\GIO\.android\build-cache\b4a64954f7bc5343f59b8e78b45f65882f8a4b9b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\GIO\.android\build-cache\1456c575d5bc004be6ea96f834211c272dae7eda\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\GIO\.android\build-cache\11a2e077bac35bc858d295888e2a4faf796a18e3\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from E:\mobile\FlagQuiz\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from E:\mobile\FlagQuiz\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from E:\mobile\FlagQuiz\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from E:\mobile\FlagQuiz\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from E:\mobile\FlagQuiz\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from E:\mobile\FlagQuiz\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.gio.flagquiz.MainActivity
+ADDED from E:\mobile\FlagQuiz\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from E:\mobile\FlagQuiz\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\mobile\FlagQuiz\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from E:\mobile\FlagQuiz\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from E:\mobile\FlagQuiz\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\mobile\FlagQuiz\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from E:\mobile\FlagQuiz\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from E:\mobile\FlagQuiz\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\GIO\.android\build-cache\eb17303555e4327a6f44a9f520e55adc2ef5cf59\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\GIO\.android\build-cache\8bb2e19557ce31151401eda7fd155f8b5f30c67c\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\GIO\.android\build-cache\ade2d3fbdad457240d6845ca33595f6bee14bc97\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\GIO\.android\build-cache\4c41e7f3797b151ae901123b86671538eccecfcb\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\GIO\.android\build-cache\0e15a4191bcc6600d61c74535735ec55d9ca9943\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\GIO\.android\build-cache\978765fe7a46a86e317ef72c1db8208404b86863\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\GIO\.android\build-cache\464e9ef6d88cf5e5aa28819ae38cab0ab208ab1c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\GIO\.android\build-cache\b4a64954f7bc5343f59b8e78b45f65882f8a4b9b\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\GIO\.android\build-cache\1456c575d5bc004be6ea96f834211c272dae7eda\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\GIO\.android\build-cache\11a2e077bac35bc858d295888e2a4faf796a18e3\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\GIO\.android\build-cache\eb17303555e4327a6f44a9f520e55adc2ef5cf59\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\mobile\FlagQuiz\app\src\main\AndroidManifest.xml
+		INJECTED from E:\mobile\FlagQuiz\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\mobile\FlagQuiz\app\src\main\AndroidManifest.xml
+		INJECTED from E:\mobile\FlagQuiz\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\GIO\.android\build-cache\eb17303555e4327a6f44a9f520e55adc2ef5cf59\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\GIO\.android\build-cache\8bb2e19557ce31151401eda7fd155f8b5f30c67c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\GIO\.android\build-cache\ade2d3fbdad457240d6845ca33595f6bee14bc97\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\GIO\.android\build-cache\4c41e7f3797b151ae901123b86671538eccecfcb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\GIO\.android\build-cache\0e15a4191bcc6600d61c74535735ec55d9ca9943\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\GIO\.android\build-cache\978765fe7a46a86e317ef72c1db8208404b86863\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\GIO\.android\build-cache\464e9ef6d88cf5e5aa28819ae38cab0ab208ab1c\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\GIO\.android\build-cache\b4a64954f7bc5343f59b8e78b45f65882f8a4b9b\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\GIO\.android\build-cache\1456c575d5bc004be6ea96f834211c272dae7eda\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\GIO\.android\build-cache\eb17303555e4327a6f44a9f520e55adc2ef5cf59\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\GIO\.android\build-cache\eb17303555e4327a6f44a9f520e55adc2ef5cf59\output\AndroidManifest.xml:26:9-47

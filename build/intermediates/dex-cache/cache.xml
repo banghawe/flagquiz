@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\GIO\.android\build-cache\978765fe7a46a86e317ef72c1db8208404b86863\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\mobile\FlagQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c0fe205c34c64cadd6ac8fbd03d4c331b5d1a53e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GIO\.android\build-cache\eb17303555e4327a6f44a9f520e55adc2ef5cf59\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\mobile\FlagQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f60ebea4e472c2251ea357d2e31cf7d41d53b4ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\mobile\FlagQuiz\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="E:\mobile\FlagQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_333f9b81387f5a695d522fd4c915b2fed115927f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GIO\.android\build-cache\8bb2e19557ce31151401eda7fd155f8b5f30c67c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\mobile\FlagQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bc5bfd2ae53909d709c1daeb5d4ff9bde12d6c62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GIO\.android\build-cache\464e9ef6d88cf5e5aa28819ae38cab0ab208ab1c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\mobile\FlagQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_84c701a831bb8e0cba1294b21f99b970ebb4e67b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GIO\.android\build-cache\0e15a4191bcc6600d61c74535735ec55d9ca9943\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\mobile\FlagQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c458d5f346502bae128d3f963ef043c0f8f8cebf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GIO\.android\build-cache\ade2d3fbdad457240d6845ca33595f6bee14bc97\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\mobile\FlagQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cd75f504312b745ad18475ec6fd047d10bb81b84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GIO\.android\build-cache\1456c575d5bc004be6ea96f834211c272dae7eda\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\mobile\FlagQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6c0d71c0068c67b3cb302c72b4bc7d36e9556a12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GIO\.android\build-cache\11a2e077bac35bc858d295888e2a4faf796a18e3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\mobile\FlagQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5b0c59753b7f166b7efed5e4faf338af92472af8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GIO\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\mobile\FlagQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_63ecd4818f7988a76c783273e3297e9816b958f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\mobile\FlagQuiz\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2540e9403550bf0050b8eb1f2a1cca2e15dac254">
+        <dex dex="E:\mobile\FlagQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f3347ec5f09a9ac1adfc01c719bb0e5067e09378\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GIO\.android\build-cache\4c41e7f3797b151ae901123b86671538eccecfcb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\mobile\FlagQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eb63f6614c18d5a0202608ea768db9948b87620e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GIO\.android\build-cache\b4a64954f7bc5343f59b8e78b45f65882f8a4b9b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\mobile\FlagQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d128705dda7925680d976ecdaa74689120295c91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GIO\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\mobile\FlagQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_55d3be3be7a360f5ae132bd0785023188f3f923c\classes.dex" />
+    </item>
+
+</items>

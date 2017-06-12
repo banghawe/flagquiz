@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.gio.flagquiz.MainActivity">
+
+
+    <ImageView
+        android:id="@+id/iv_flags"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/b_answer1"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:contentDescription=""
+        tools:ignore="ContentDescription" />
+
+    <Button
+        android:id="@+id/b_answer4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="" />
+
+    <Button
+        android:id="@+id/b_answer3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/b_answer4"
+        android:layout_centerHorizontal="true"
+        android:text="" />
+
+    <Button
+        android:id="@+id/b_answer2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/b_answer3"
+        android:layout_centerHorizontal="true"
+        android:text="" />
+
+    <Button
+        android:id="@+id/b_answer1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/b_answer2"
+        android:layout_centerHorizontal="true"
+        android:text="" />
+</RelativeLayout>
